@@ -1,0 +1,9 @@
+stellarMass: 2
+composition:
+  X: 0.7
+  Y: 0.28
+  Z: 0.02
+  # metal compositions from Table 1 of Iglesias and Rogers
+  X_C: 2.45518e-1
+  X_N: 6.45777e-2
+  X_O: 5.12966e-1
