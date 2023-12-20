@@ -133,7 +133,7 @@ def make_file(result):
     result_df['actual_grad'] = del_actual_list
     result_df['transport'] = energy_transport_list
 
-    result_df.to_csv('star_result.csv')
+    result_df.to_csv('star_result.csv', index=False)
     return result_df
 
 
